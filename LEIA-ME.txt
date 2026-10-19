@@ -1,0 +1,37 @@
+DEVTRILHA — APRENDA CONSTRUINDO
+
+Para abrir: dê dois cliques em index.html. Mantenha os quatro arquivos juntos.
+Se recebeu um ZIP, extraia a pasta inteira antes de abrir.
+
+Inclui 29 aulas em 11 módulos, desafios, revisões, anotações, laboratório
+HTML/CSS/JavaScript, gerador de pedidos para IA e três projetos guiados.
+
+Comece em “Começar minha primeira aula”. Leia o conceito, tente o desafio
+e responda à revisão. A confirmação de prática é uma autoavaliação.
+
+React, Node.js, banco de dados e C# têm exercícios para executar no computador,
+conforme as instruções de cada aula. O laboratório executa somente HTML, CSS
+e JavaScript, sem dependências nem requisições externas.
+
+A área de IA prepara textos para copiar: não há um modelo de IA conectado.
+
+O progresso é salvo no navegador quando o armazenamento local está disponível.
+Use “Exportar meu progresso” para guardar uma cópia e “Importar progresso” para
+restaurá-la. Arquivo local e site publicado possuem armazenamentos separados.
+Se mudar de navegador, de endereço ou de pasta, exporte antes de mudar.
+Navegação privada ou limpeza dos dados pode remover o progresso.
+
+As fontes visuais são carregadas da internet, com fontes alternativas locais.
+O conteúdo principal e o laboratório funcionam sem essa conexão.
+
+Esta é uma trilha introdutória até temas avançados. Para dominar as ferramentas,
+construa projetos, consulte a documentação oficial e repita os exercícios com
+variações. As aulas não representam uma certificação nem um curso exaustivo.
+
+Base dos projetos: arquivos locais de Luana Carla Doceria e api-predial
+consultados em 19/10/2026. C# é uma trilha adicional: o backend examinado
+do api-predial usa JavaScript com Node.js e Express.
+
+Publicação: autorizada pelo usuário, mas ainda não concluída por bloqueio do ambiente no envio
+da credencial temporária de envio à hospedagem privada.
+
